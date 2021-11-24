@@ -8,6 +8,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        println("Hello Android Studio!")
+        println("That is Android Studio!")
     }
 }
